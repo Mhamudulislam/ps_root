@@ -1,0 +1,42 @@
+/* Extra_smale_screen */
+@media(max-width: 575.98px) 
+{
+}
+
+
+
+/* Smale_screen */
+@media(min-width: 576px) and (max-width: 767.98px) 
+{
+}
+
+
+
+
+/* mediam_screen */
+@media(min-width: 768px) and (max-width: 991.98px) 
+{
+}
+
+
+
+
+
+/* larg_screen */
+@media(min-width: 992px) and (max-width: 1199.98px) 
+{
+}
+
+
+
+
+
+/* Extra_larg_screen */
+@media(min-width: 1200px) and (max-width: 1399.98px) {}
+
+
+
+
+
+/* Extra_Extra_larg_screen */
+@media(min-width: 1400px) {}

@@ -1,0 +1,17 @@
+:root
+{--col1:red; --col2:white; --col3:blue; --col4:20px; --col5:sans-serif}
+.box
+{margin: 100px 10px 0; border: 1px solid black; background: linear-gradient(black, yellow);}
+h1
+{text-align: center; font-family: var(--col5); color: var(--col3);}
+
+h1
+{text-shadow: 3px 0 lightblue;}
+.box1
+{}
+.box2
+{border: 1px solid green; background: linear-gradient(red, yellow);}
+.box3
+{border: 1px solid greenyellow; background: linear-gradient(black, lightblue);}
+.box4
+{border: 1px solid slateblue; background: linear-gradient(black, green);}
